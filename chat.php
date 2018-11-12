@@ -1,3 +1,4 @@
+<!dOCTYPE html>
 <html>
 	<head>
 		<title>チャット</title>
@@ -6,6 +7,7 @@
 		h1{
 			font-size:12pt;
 			boder_bottom:1px solid gray;
+			color: Blue;
 		}
 		form
 		{
