@@ -1,3 +1,6 @@
+<?php
+	 setcookie("uname",$_GET["uname"]);
+?>
 <!dOCTYPE html>
 <html>
 	<head>
