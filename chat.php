@@ -23,7 +23,7 @@
 </head>
 <body>
 
-<h1>秘密のチャット</h1>
+<h1>チャット</h1>
 <form>
 	<?php
 		echo $_GET['uname'];
