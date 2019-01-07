@@ -31,6 +31,7 @@
 	<input type="hidden" id="uname" value="<?= $_GET['uname'] ?>">
 	<input type="text" id="msg">
 	<button type="button" id="sbmt">送信</button>
+	
 </form>
 
 <div id="chatlog"></div>
@@ -97,5 +98,8 @@ function getLog(){
 	request.send();
 }
 </script>
+<form action="index.php">
+	<button>ログアウト</button>
+</form>
 </body>
 </html>
